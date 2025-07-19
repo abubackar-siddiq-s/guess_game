@@ -33,11 +33,3 @@ A beautifully styled, user-friendly **"Guess the Number"** game built using **HT
 
 <img src="Screenshot (161).png" width="400"/>
 <img src="Screenshot (162).png" width="400"/>
-
----
-
-## 🛠 How to Run Locally
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/guess-number-game.git
